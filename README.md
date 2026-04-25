@@ -1,6 +1,6 @@
 👋 I AM DARSHAN KUDRIGI:<br><br>
-Aspiring MERN Stack Developer with strong expertise in React.js, Next.js, and Tailwind CSS, and hands-on experience building scalable full-stack applications using Node.js, Express.js, and RESTful APIs. <br><br>
-<br><br>Actively strengthening problem-solving skills through Data Structures & Algorithms, Object-Oriented Programming, and Core Computer Science fundamentals. demonstrated through hackathon presentations and collaborative project development.<br><br>
+Aspiring MERN Stack Developer with strong expertise in React.js, Next.js, and Tailwind CSS, and hands-on experience building scalable full-stack applications using Node.js, Express.js, and RESTful APIs. 
+<br><br>Actively strengthening problem-solving skills through Data Structures & Algorithms, Object-Oriented Programming, and Core Computer Science fundamentals. demonstrated through hackathon presentations and collaborative project development.
 <br><br>Driven to build impactful, real-world applications and contribute to innovative,and evolving as a Software developer 👨🏻‍💻 .
 
 
